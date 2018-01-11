@@ -1,6 +1,4 @@
 
-export default {
-  getName: function () {
-    return 'Peter Rumbles'
-  }
+exports.getName = function () {
+  return 'Peter Rumbles'
 }
